@@ -11,6 +11,7 @@
 	<groupId>com.helloworld</groupId>
 	<artifactId>HELLOWORLD</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>HELLOWORLD</name>
 	<description>HELLO WORLD project for Spring Boot</description>
 	<properties>
