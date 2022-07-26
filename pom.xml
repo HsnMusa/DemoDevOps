@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.helloworld</groupId>
 	<artifactId>HELLOWORLD</artifactId>
-	<version>0.0.1.20220726122438</version>
+	<version>0.0.1.20220726123059</version>
 	<packaging>war</packaging>
 	<name>HELLOWORLD</name>
 	<description>HELLO WORLD project for Spring Boot</description>
